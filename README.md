@@ -1,1 +1,1 @@
-usefull js code
+useful js code
