@@ -5,4 +5,3 @@ function commas(num) {
     
 }
 
-console.log(commas('1111'));
